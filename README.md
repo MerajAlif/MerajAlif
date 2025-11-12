@@ -2,7 +2,7 @@
 
 # 👨‍💻 Meraj Serker
 
-### Software Engineer | IoT Researcher | ERP Developer
+### Programmer
 
 <p align="center">
   <a href="https://linkedin.com/in/meraj-serker"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -26,7 +26,6 @@ const meraj = {
     location: "Dhaka, Bangladesh",
     currentWork: [
         "Trainee Software Dev @ Daffodil Software Limited",
-        "Junior Software Dev @ GradMate.ai (Remote)"
     ],
     researchFocus: [
         "IoT & Embedded Systems",
