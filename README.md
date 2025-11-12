@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Meraj Serker
+# Meraj Serker
 
 ### Programmer
 
