@@ -2,7 +2,7 @@
 
 # Meraj Serker
 
-### Programmer
+### Junior Software Engineer
 
 <p align="center">
   <a href="https://linkedin.com/in/meraj-serker"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -21,11 +21,11 @@
 
 ```typescript
 const meraj = {
-    role: "Software Engineer & Researcher",
+    role: "Junior Software Engineer",
     education: "B.Sc. in CSE @ Daffodil International University",
     location: "Dhaka, Bangladesh",
     currentWork: [
-        "Trainee Software Dev @ Daffodil Software Limited",
+        "Junior Software Engineer @ Daffodil Software Limited",
     ],
     researchFocus: [
         "IoT & Embedded Systems",
@@ -40,7 +40,7 @@ const meraj = {
 <summary>📖 More about my journey</summary>
 <br>
 
-I'm passionate about building innovative solutions that bridge hardware and software. As **President of DIU Embedded System Research Centre**, I lead research initiatives in IoT and embedded systems. My work spans from developing intelligent Odoo ERP modules to creating IoT-powered agriculture platforms.
+I'm passionate about building innovative solutions that bridge hardware and software. As **former President of DIU Embedded System Research Centre**, I led research initiatives in IoT and embedded systems. My work spans from developing intelligent Odoo ERP modules to creating IoT-powered agriculture platforms.
 
 🎯 **Currently focused on:**
 - Odoo ERP customization and intelligent automation
@@ -59,7 +59,7 @@ I'm passionate about building innovative solutions that bridge hardware and soft
 <td width="50%">
 
 ### 🏢 Daffodil Software Limited
-**Trainee Software Dev** *(Aug 2025 - Present)*
+**Junior Software Engineer** *(Aug 2025 - Present)*
 - Developing custom Odoo ERP solutions
 - Building intelligent chatbot integrations
 - Creating access control & management systems
@@ -89,9 +89,9 @@ I'm passionate about building innovative solutions that bridge hardware and soft
 
 ### 🎯 DIU Embedded System Research Centre
 **President & Researcher** *(2022 - 2025)*
-- Leading embedded systems research
-- Mentoring junior researchers
-- Organizing technical workshops
+- Led embedded systems research
+- Mentored junior researchers
+- Organized technical workshops
 
 </td>
 </tr>
